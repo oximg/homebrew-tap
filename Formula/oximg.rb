@@ -1,8 +1,8 @@
 class Oximg < Formula
   desc "Fast image compression and resizing: JPEG, PNG, WebP"
   homepage "https://github.com/oximg/oximg"
-  url "https://github.com/oximg/oximg/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "79fe10f98bc2f4261c1c83c9c1cbcb941d67028b13b0312efe42233a272174a0"
+  url "https://github.com/oximg/oximg/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "940ad592181fa38854abb189204aefd0c7cc944a5bc035c1e441b9ebbc0dfa26"
   license "Apache-2.0"
   head "https://github.com/oximg/oximg.git", branch: "main"
 
